@@ -7,7 +7,7 @@ Extract Parameters &amp; Brush Tip Bitmap from Photoshop .abr Brushes.
 
 Put the script and the .abr brush in the same folder, then open command line in that folder and run:
 
-```python cspbrushextract.py brush.abr```
+```python psbrushextract.py brush.abr```
 
 ---
 
