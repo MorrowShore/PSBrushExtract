@@ -1,3 +1,5 @@
+You can now use our online tool here: https://morrowshore.com/tool/ps-extractor/ 
+
 # PSBrushExtract
 Extract Parameters &amp; Brush Tip Bitmap from Photoshop .abr Brushes.
 
